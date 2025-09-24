@@ -1,0 +1,28 @@
+源数据(data.txt)：
+2025-08-13
+user80354514132913|@g44EB5GkeZ5PdGbX6|dursaapapad@hotmail.com|FYGXBn77|UK
+user1321801996331|w7PamR1JuS9Lu5TKm@|agamessilvaa@hotmail.com|N4Dh6l33|UK
+2025-08-14
+user80354514132913|@g44EB5GkeZ5PdGbX6|dursaapapad@hotmail.com|FYGXBn77|US
+
+alpha.json
+状态码：0=未登陆(黑色)，1=登陆成功(绿色)，2=频繁登陆(黄色)，3=失败（红色）4=封号(下拉菜单 字体红色)(背景灰色)
+[
+  {
+    "NUM": "1",
+     "zhanghao":"user1321801996331",
+     "password":"w7PamR1JuS9Lu5TKm@",
+     "email":"agamessilvaa@hotmail.com",
+     "emailPwd":"N4Dh6l33"
+     "country": "UK",
+     "status":"0"
+   }
+]
+
+
+STATUS.JSON
+
+外国抖音：
+账号|密码|验证邮箱|邮箱密码|账号国家
+
+
