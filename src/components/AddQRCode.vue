@@ -132,7 +132,7 @@ async function uploadImage() {
   try {
     // 2. 发送 POST 请求
     // **重要**: 请将这里的 URL 替换成你自己的后端上传接口地址
-    const response = await axios.post('http://localhost:3000/api/upload', formData, {
+    const response = await axios.post('https://github.com/xkai003/tiktok-localhost/tree/main/uploads', formData, {
       headers: {
         'Content-Type': 'multipart/form-data' // axios 会自动设置，但明确写出更好
       }
